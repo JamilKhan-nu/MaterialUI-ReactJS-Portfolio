@@ -15,7 +15,7 @@ const Navbar = () => {
         sx={{ display: "flex", justifyContent: "center", pb: "2rem" }}
         variant="h5"
       >
-        Jk
+        jk
       </Typography>
       <nav aria-label="main mailbox folders">
         <List>
